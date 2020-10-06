@@ -1,0 +1,1 @@
+This is the output folder in which the processed videos will be stored.
