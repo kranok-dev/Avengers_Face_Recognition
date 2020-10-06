@@ -20,7 +20,7 @@
 > The model's zip file needs to be extracted and placed at the same level as output, videos and app.py:
 
 **Execution**
-> The application was designed to process an input video and outputs the processed video:
+> The application was designed to process an input video and saves the processed video in the output folder:
 ```
 $ sudo python3 app.py
 
