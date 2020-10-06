@@ -1,6 +1,6 @@
 # Avengers_Face_Recognition
 
-![Demo Result](https://github.com/kranok-dev/Avengers_Face_Recognition/blob/master/result_image.png?raw=true)
+![Demo Result](https://github.com/kranok-dev/Avengers_Face_Recognition/blob/main/result_image.png?raw=true)
 
 **Description**                                                               
 > Simple project achieving Face Recognition with the six original members of The Avengers. This repository includes the trained models for face detection and recognition with OpenCV. 
