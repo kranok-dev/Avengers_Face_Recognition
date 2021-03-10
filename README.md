@@ -1,4 +1,4 @@
-# Avengers_Face_Recognition
+# Avengers Face Recognition
 
 ![Demo Result](https://github.com/kranok-dev/Avengers_Face_Recognition/blob/main/result_image.png?raw=true)
 
